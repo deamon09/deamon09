@@ -11,21 +11,11 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
+### 📬 **GET IN TOUCH**
 
-<a href="mailto:rhyancross27@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/📧_GMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&logoWidth=20" alt="Gmail" style="transition: all 0.3s ease; box-shadow: 0 8px 16px rgba(234, 67, 53, 0.3);"/>
-</a>
-
-<a href="https://wa.me/5547999699718" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E&logoWidth=20" alt="WhatsApp" style="transition: all 0.3s ease; box-shadow: 0 8px 16px rgba(37, 211, 102, 0.3);"/>
-</a>
-
-<a href="https://instagram.com/rhyancross" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/📱_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584&logoWidth=20" alt="Instagram" style="transition: all 0.3s ease; box-shadow: 0 8px 16px rgba(224, 52, 105, 0.3);"/>
-</a>
-
-</div>
+[![Gmail](https://img.shields.io/badge/📧_GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyancross27@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547999699718)
+[![Instagram](https://img.shields.io/badge/📱_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhyanfx7/)
 
 ---
 
