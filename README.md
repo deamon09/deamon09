@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
-📍 **Itapoá, SC — Brasil** | 💼 **Porto de Itapoá** | 🎓 **Engenharia de Sistemas (2026+)**
+📍 **Itapoá, SC — Brasil** | 🎓 **Engenharia de Sistemas (2026+)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deamon09&label=Profile%20Views&color=0077B5&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/deamon09?style=social&logo=github)
@@ -32,7 +32,7 @@
 
 **Desenvolvedor apaixonado por tecnologia, inovação e excelência técnica.**
 
-Combino experiência prática em operações portuárias com conhecimento técnico em cloud, automação e desenvolvimento full stack. Certificado AWS Cloud Practitioner com foco em arquitetura escalável e soluções inteligentes.
+Focado em criar soluções escaláveis e de alto impacto com conhecimento em cloud, automação e desenvolvimento full stack. Certificado AWS Cloud Practitioner com foco em arquitetura moderna e boas práticas.
 
 </div>
 
@@ -87,31 +87,6 @@ Combino experiência prática em operações portuárias com conhecimento técni
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## <div align="center"> 🏢 **EXPERIÊNCIA PROFISSIONAL** </div>
-
-<div align="center">
-
-### 👷 **Auxiliar Portuário** — Porto de Itapoá
-**Jan 2024 — Presente** | Itapoá, SC
-
-- ✅ Operação em um dos maiores portos de contêineres do Brasil
-- ✅ Domínio completo do fluxo operacional e rotinas logísticas
-- ✅ Mapeamento de oportunidades de otimização via soluções de TI
-- ✅ Interação com sistemas de controle e gestão portuária
-
----
-
-### 📦 **Jovem Aprendiz — Logística** — Maersk
-**2023 — 2024** | Logística & Transporte Marítimo Internacional
-
-- ✅ Suporte ao setor logístico da maior companhia marítima do mundo
-- ✅ Operação de sistemas corporativos de gestão e rastreamento
-- ✅ Experiência em supply chain, documentação e controle de embarques
 
 </div>
 
@@ -197,10 +172,10 @@ Combino experiência prática em operações portuárias com conhecimento técni
 | 🧠 | **Autodidata** | Aprendizado independente e contínuo em tecnologias modernas |
 |---|---|---|
 | 🤖 | **IA como Ferramenta** | Uso produtivo de inteligência artificial para otimização |
-| 🏭 | **Visão Operacional** | Conhecimento real das demandas do setor portuário |
 | 🚀 | **Inovação Constante** | Sempre buscando novas soluções e melhorias |
 | 💡 | **Pensamento Crítico** | Análise profunda de problemas e soluções escaláveis |
 | 🌐 | **Colaboração** | Excelente comunicação e trabalho em equipe |
+| ⚡ | **Foco em Resultados** | Comprometido com entrega de valor real |
 
 </div>
 
