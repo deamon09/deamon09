@@ -144,13 +144,28 @@ Specialized in building scalable architectures with cloud technologies, automati
 
 ---
 
-## <div align="center"> 🌍 **LANGUAGES** </div>
+## <div align="center"> 🌍 **LANGUAGES & PROFICIENCY** </div>
 
 <div align="center">
 
-![Portuguese](https://img.shields.io/badge/Português-Native-green?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Intermediate%20(7+%20years)-blue?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/Español-Basic-orange?style=for-the-badge)
+### 🇧🇷 **Portuguese**
+![Proficiency](https://img.shields.io/badge/Native_Speaker-100%25-green?style=for-the-badge)
+
+**Fluência:** Nativa | **Escrita:** Profissional | **Leitura:** Fluente
+
+---
+
+### 🇬🇧 **English** 
+![Proficiency](https://img.shields.io/badge/Advanced_Intermediate-80%25-blue?style=for-the-badge)
+
+**Fluência:** Conversação | **Escrita:** Técnica | **Leitura:** Fluente | **Experiência:** 7+ anos
+
+---
+
+### 🇪🇸 **Spanish**
+![Proficiency](https://img.shields.io/badge/Basic-40%25-orange?style=for-the-badge)
+
+**Fluência:** Básica | **Escrita:** Elementar | **Leitura:** Intermediária
 
 </div>
 
