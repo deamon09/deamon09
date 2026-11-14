@@ -8,18 +8,6 @@
 
 ---
 
-<details>
-<summary><b>✨ Click to reveal more...</b></summary>
-
-> Building scalable solutions with **cutting-edge technology**
-
-</details>
-
-</div>
-
----
-
-## <div align="center"> 💼 **PROFESSIONAL PROFILE** </div>
 
 <div align="center">
 
