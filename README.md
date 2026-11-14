@@ -1,17 +1,6 @@
-# <div align="center"> 👨‍💻 **RHYAN CROSS** </div>
+# <div align="center"> **RHYAN CROSS** </div>
 
 <div align="center">
-
-### 🚀 **Full Stack Developer | AWS Certified Cloud Practitioner | Innovation Focused**
-
-📍 **Itapoá, SC — Brasil** | 🎓 **Engenharia de Sistemas (2026+)**
-
-![Profile Views](https://komarev.com/ghpvc/?username=deamon09&label=Profile%20Views&color=0077B5&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/deamon09?style=social&logo=github)
-
----
-
-### 📬 **GET IN TOUCH**
 
 [![Gmail](https://img.shields.io/badge/📧_GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhyancross27@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547999699718)
