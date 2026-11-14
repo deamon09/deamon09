@@ -77,19 +77,7 @@ Specialized in building scalable architectures with cloud technologies, automati
 
 ## <div align="center"> 🎓 **EDUCATION & CERTIFICATIONS** </div>
 
-<div align="center">
 
-### 📚 **Academic Background**
-- **Bachelor's Degree in Systems Engineering** (In Progress — Starting 2026)
-- **High School Diploma** ✅ Completed
-
-### 🏆 **Professional Certifications**
-- ✅ **AWS Certified Cloud Practitioner**
-- ✅ **AWS Cloud Foundations**
-- ✅ **AWS Database Fundamentals**  
-- ✅ **AWS Systems Fundamentals**
-
-</div>
 
 ---
 
