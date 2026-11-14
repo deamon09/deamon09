@@ -93,21 +93,6 @@ Specialized in building scalable architectures with cloud technologies, automati
 
 ---
 
-## <div align="center"> 🌟 **CORE STRENGTHS** </div>
-
-<div align="center">
-
-| 🧠 | **Self-Taught Learner** | Continuous learning and mastery of modern technologies |
-|---|---|---|
-| 🤖 | **AI-Powered Solutions** | Strategic use of AI for optimization and innovation |
-| 🚀 | **Innovation Driver** | Constantly seeking better solutions and improvements |
-| 💡 | **Critical Thinking** | Deep analysis and scalable problem-solving |
-| 🌐 | **Team Collaboration** | Excellent communication and teamwork |
-| ⚡ | **Results Oriented** | Committed to delivering real value |
-
-</div>
-
----
 
 ## <div align="center"> 🌍 **LANGUAGES & PROFICIENCY** </div>
 
@@ -144,22 +129,6 @@ Specialized in building scalable architectures with cloud technologies, automati
 
 </div>
 
----
-
-## <div align="center"> 🤝 **LET'S COLLABORATE** </div>
-
-<div align="center">
-
-Always open to **collaborative opportunities**, **technical challenges**, and **continuous growth**.
-
-### Available for:
-- 💼 **Full Stack Development**
-- ☁️ **Cloud Architecture & DevOps**
-- 🤖 **AI & Automation Solutions**
-- 📱 **Web & Mobile Solutions**
-- 🔧 **Technical Consulting**
-
-</div>
 
 ---
 
